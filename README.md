@@ -119,5 +119,6 @@ offline-chatgpt-ollama/
 * Support for other models (`llama3`, `mistral`, `gemma`, etc.)
 * Add Markdown support or code highlighting
 
-
+### 🚀 [Live Demo](https://hemalathabora-offline-llm-chatbot-app-v2tpbh.streamlit.app/)  
+> Click the link above to try the chatbot right now! ✅
 
